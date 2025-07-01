@@ -1,7 +1,6 @@
 <!--## Hi there 👋-->
 
-
-![header](https://capsule-render.vercel.app/api?type=blur&color=000000&height=200px&section=header&text="Welcome to my github!"&color=FFFFFF)
+![GitHub Profile Header](https://capsule-render.vercel.app/api?type=blur&color=000000&height=200px&section=header&text=Welcome%20to%20my%20github!&color=FFFFFF)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=FFFFFF&background=000000)]()
 <!--
