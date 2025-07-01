@@ -1,5 +1,5 @@
-## Hi there 👋
-![Test Image](title.svg)
+<!--## Hi there 👋-->
+![Test Image] <img src="title.svg" alt="Test Image" style="background-color: #f0f0f0;">
 
 
 <!--
