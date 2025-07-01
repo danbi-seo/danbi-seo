@@ -5,8 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=FFFFFF)]()-->
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github!+Take+your+time!&color=000000)]()
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github!;Take+your+time!&color=000000&speed=100&pause=2000)](https://git.io/typing-svg)
+</div>
 
 ###
 
