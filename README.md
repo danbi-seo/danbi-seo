@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-<img src="title.svg" alt="Test Image" style="background-color: linear-gradient(177deg,rgba(48, 48, 84, 1) 0%, rgba(9, 9, 121, 1) 50%, rgba(80, 16, 176, 1) 100%);;">
+<img src="hogwarts.jpg" alt="Test Image" style="background-color: linear-gradient(177deg,rgba(48, 48, 84, 1) 0%, rgba(9, 9, 121, 1) 50%, rgba(80, 16, 176, 1) 100%);;">
 
 
 <!--
