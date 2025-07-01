@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=FFFFFF)]()-->
 
-
-<div style="position: relative; text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=200px&section=header&text=Welcome%20to%20my%20github!&color=000000" alt="GitHub Profile Header">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=FFFFFF" alt="Typing SVG" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=200px&section=header&text=Welcome%20to%20my%20github!&color=FFFFFF" alt="GitHub Profile Header">
+</div>
+<div style="text-align: center;"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=FFFFFF&background=000000)](https://git.io/typing-svg)
 </div>
 
 
