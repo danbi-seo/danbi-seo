@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=blur&color=background: #3F5EFB; background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);&height=200px&section=header&text="Welcome to my github")
+![header](https://capsule-render.vercel.app/api?type=blur&color=background:%20%233F5EFB;background:%20radial-gradient(circle,%20rgba(63,%2094,%20251,%201)%200%,%20rgba(252,%2070,%20107,%201)%20100%);&height=200px&section=header&text="Welcome%20to%20my%20github")
 
 
 <!--
