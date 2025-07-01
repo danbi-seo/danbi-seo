@@ -1,8 +1,8 @@
 <!--## Hi there 👋-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github!;Take+your+time!&color=FFFFFF&background=000000)](https://git.io/typing-svg)
+[![header](https://capsule-render.vercel.app/api?type=blur&color=000000&height=200px&section=header&text="Welcome to my github!"&color=FFFFFF)]()
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=FFFFFF&background=000000)]()
 <!--
 **danbi-seo/danbi-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
