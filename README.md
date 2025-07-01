@@ -8,9 +8,9 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github!;Take+your+time!&color=000000&speed=50&pause=20)](https://git.io/typing-svg)
 </div>
 <div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github!;Take+your+time!&color=000000&speed=50&pause=20)](https://git.io/typing-svg)
   <img src="music.png" height="100%" alt="mainimg"  />
 </div>
 
