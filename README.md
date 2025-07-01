@@ -1,4 +1,7 @@
 ## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=blur&color=background: #3F5EFB;
+background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);&height=200px&section=header&text="Welcome to my github")
+
 
 <!--
 **danbi-seo/danbi-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
