@@ -6,8 +6,8 @@
 
 
 <div style="position: relative; text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=200px&section=header&text= " alt="GitHub Profile Header Background">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20github!;Take%20your%20time!" alt="Typing SVG" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: auto; height: auto;">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=200px&section=header&text=%20&color=FFFFFF" alt="검은색 배경 헤더">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20github!;Take%20your%20time!&color=FFFFFF&background=000000" alt="움직이는 텍스트" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: auto; height: auto;">
 </div>
 
 <!--
