@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github!+Take+your+time!&color=000000)]()👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github!+Take+your+time!&color=000000&h1 align="center")]()👋
 
 ###
 
