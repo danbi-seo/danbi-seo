@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=FFFFFF)]()-->
 
 
-<div style="position: relative; width: 100%; text-align: center;">
+[<div style="position: relative; width: 100%; text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=200px&section=header&text=%20" alt="검은색 배경 헤더" style="width: 100%;">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20github!;Take%20your%20time!&color=FFFFFF&background=FFFFFF00" alt="흰색 타이핑 효과" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: auto; height: auto;">
-</div>
+</div>](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=200px§ion=header&text=%20" alt="검은색 배경 헤더" style="width: 100%; display: block;"> https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20github!;Take%20your%20time!&color=FFFFFF&background=FFFFFF00" alt="흰색 타이핑 효과" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: auto; height: auto;">)
 
 <!--
 **danbi-seo/danbi-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
