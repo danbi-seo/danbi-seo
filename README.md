@@ -6,11 +6,10 @@
 
 
 
-<h1 align="center">Welcome to my github👋</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github!+Take+your+time!&color=000000)]()👋</h1>
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=000000)]()
 <div align="center">
   <img src="music.png" height="100%" alt="mainimg"  />
 </div>
