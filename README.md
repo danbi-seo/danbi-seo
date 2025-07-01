@@ -10,7 +10,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=FFFFFF)]()-->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Take+your+time!&color=000000)]()-->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
   <img width="12" />
